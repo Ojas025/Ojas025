@@ -1,7 +1,7 @@
 # Hi there, I'm **Ojas Deshpande**
 
 ## 💫 About Me:
-😁 A Computer Engineering Student and AI/ML enthusiast<br>😎 Coding & improving....<br>😂 Experimenting with AI/ML projects that (sometimes) work<br>🫡 Forever curios and building things just for the fun of it
+😁 A Computer Engineering Student and AI/ML enthusiast<br>😎 Coding & improving....<br>😂 Experimenting with AI/ML projects that (sometimes) work<br>🫡 Forever curious and building things just for the fun of it
 
 
 ## 🌐 Socials:
